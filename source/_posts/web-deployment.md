@@ -3,7 +3,7 @@ title: Web 项目线上部署
 date: 2019-01-06 18:40:00
 author: lt
 img: https://upload-images.jianshu.io/upload_images/12625950-e1eef05d1c88ea23.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 # 或者:/source/images/xxx.jpg
-top: true # 如果top值为true，则会是首页推荐文章
+top: false # 如果top值为true，则会是首页推荐文章
 # 如果要对文章设置阅读验证密码的话，就可以在设置password的值，该值必须是用SHA256加密后的密码，防止被他人识破
 # password: 8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 # 本文章是否开启mathjax，且需要在主题的_config.yml文件中也需要开启才行

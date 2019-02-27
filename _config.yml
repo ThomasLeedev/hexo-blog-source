@@ -5,7 +5,7 @@
 # Site
 title: lt'blog
 subtitle: lt's blog
-description: 个人技术博客
+description: C++、JavaEE、Flutter、Hacker
 keywords:
 author: lt
 language: zh-CN
@@ -89,5 +89,4 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo:
-    git@github.com:ThomasLeedev/thomasleedev.github.io.git
+  repo: git@github.com:ThomasLeedev/thomasleedev.github.io.git
