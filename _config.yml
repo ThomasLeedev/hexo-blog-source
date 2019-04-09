@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: lt'blog
-subtitle: lt's blog
+title: lt's blog
+subtitle: 
 description: C++、JavaEE、Flutter、Hacker
 keywords:
 author: lt
@@ -83,7 +83,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-matery
+theme: diaspora
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
